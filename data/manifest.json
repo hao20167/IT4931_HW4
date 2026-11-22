@@ -1,0 +1,14 @@
+{
+  "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet",
+  "download_date": "2026-11-21T11:54:11.341998+00:00",
+  "file": "source.parquet",
+  "sha256": "9af277e4c0d3f9deb30644da822981e1e7df6af58313170fd3aa8a474485488a",
+  "input_rows": 3475226,
+  "scanned_rows": 65536,
+  "valid_scanned": 63616,
+  "rejected_scanned": 1920,
+  "selected": 20000,
+  "seed": null,
+  "selection": "20.000 bản ghi hợp lệ đầu tiên theo thứ tự tệp; đọc hết nhóm quét cuối",
+  "rules": "Tháng 1/2025; vùng đón 1–265; tổng tiền hữu hạn từ 0 đến 10.000 USD; loại bản ghi trùng theo SHA-256 toàn bộ trường gốc; tiền đổi sang xu, làm tròn nửa lên."
+}

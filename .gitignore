@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+assets/
+tmp/
+data/source.parquet
+data/events.jsonl
+data/raw/
+data/raw_h
+data/checkpoint/
+data/*_ready
+data/batch_cost.csv

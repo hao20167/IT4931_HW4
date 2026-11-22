@@ -1,0 +1,1 @@
+{"name": "E5_B_C2_0_2", "mode": "B", "experiment": "E5", "cores": 2, "improved": 0, "rate": 150, "sent": 18000, "count": 18000, "sum": 47868845, "correct": true, "errors": [], "poll_seconds": 0.5, "warmup_seconds": 20, "start_epoch": 1795264239.3442514, "end_epoch": 1795264361.1200778, "duration": 121.77582693099976, "samples": 240}

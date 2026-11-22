@@ -1,0 +1,4 @@
+NAME          IMAGE                COMMAND                  SERVICE   CREATED          STATUS          PORTS
+hw4-app-1     hw4-app              "/opt/entrypoint.sh …"   app       38 minutes ago   Up 38 minutes   
+hw4-db-1      postgres:16.6        "docker-entrypoint.s…"   db        38 minutes ago   Up 38 minutes   5432/tcp
+hw4-kafka-1   apache/kafka:3.9.0   "/__cacert_entrypoin…"   kafka     38 minutes ago   Up 38 minutes   9092/tcp

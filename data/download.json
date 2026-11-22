@@ -1,0 +1,6 @@
+{
+  "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet",
+  "file": "source.parquet",
+  "download_date": "2026-11-21T11:54:11.341998+00:00",
+  "sha256": "9af277e4c0d3f9deb30644da822981e1e7df6af58313170fd3aa8a474485488a"
+}

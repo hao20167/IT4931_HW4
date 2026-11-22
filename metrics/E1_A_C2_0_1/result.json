@@ -1,0 +1,1 @@
+{"name": "E1_A_C2_0_1", "mode": "A", "experiment": "E1", "cores": 2, "improved": 0, "rate": 20, "sent": 2400, "count": 2400, "sum": 6078808, "correct": true, "errors": [], "poll_seconds": 0.5, "warmup_seconds": 20, "start_epoch": 1795262387.3205364, "end_epoch": 1795262538.6630888, "duration": 151.3425531387329, "samples": 240}
